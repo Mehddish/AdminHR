@@ -47,18 +47,18 @@ const Project = () => {
     };
       
     const data = [
-        ["Elias Abbasi", "NOC Manager", "5$", "Done","Deliveried"],
-        ["Mehdi Shaabani","HR Manager","2$","Done","Deliveried"],
-        ["Ali Hoseini", "Swap", "1$","Pending","Submit"],
-        ["Hosein Alipanah", "R7-raise", "1$","Pending","Deliveried"],
+        ["Elias Abbasi", "R7 Change", "5$", "Done","Deliveried"],
+        ["Hosein Hoseini","HR Manager","2$","Done","Deliveried"],
+        ["Elias Abbasi", "Swap", "1$","Pending","Submit"],
+        ["Hosein Hoseini", "R7-raise", "1$","Pending","Deliveried"],
         ["Shoale Alirezaei", "MTN", "1$","Done","Submit"],
-        ["Name", "HD", "1$"],
-        ["Name", "MTN", "Baltimore"],
-        ["Name", "MTN", "El Paso"],
-        ["JName", "Computer Programmer", "El Paso"],
-        ["Name", "Business Consultant", "Baltimore"],
-        ["Name", "Software Developer", "Washington DC"],
-        ["Name", "Business Manager", "Annapolis"]
+        ["Name", "MTN", "1$"],
+        ["Name", "MTN", "2$"],
+        ["Name", "MTN", "2$"],
+        ["JName", "Computer Programmer", "2$"],
+        ["Name", "Business Consultant", "2$"],
+        ["Name", "Software Developer", "2$"],
+        ["Name", "Business Manager", "2$"]
         ];
   return (
     <div className='pr-container'>
