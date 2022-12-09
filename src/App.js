@@ -12,6 +12,7 @@ function App() {
     <div style={{
       backgroundImage: "linear-gradient(to bottom,#020024,#fff)",
       color: "darkred",
+      width: "100%",
     }}>
       <Router>
             <Routes>

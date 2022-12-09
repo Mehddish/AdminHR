@@ -52,13 +52,13 @@ const Project = () => {
         ["Elias Abbasi", "Swap", "1$","Pending","Submit"],
         ["Hosein Hoseini", "R7-raise", "1$","Pending","Deliveried"],
         ["Shoale Alirezaei", "MTN", "1$","Done","Submit"],
-        ["Name", "MTN", "1$"],
-        ["Name", "MTN", "2$"],
-        ["Name", "MTN", "2$"],
-        ["JName", "Computer Programmer", "2$"],
-        ["Name", "Business Consultant", "2$"],
-        ["Name", "Software Developer", "2$"],
-        ["Name", "Business Manager", "2$"]
+        ["Name", "MTN", "1$", "Done","Deliveried"],
+        ["Name", "MTN", "2$", "Done","Deliveried"],
+        ["Name", "MTN", "2$", "Done","Deliveried"],
+        ["JName", "Computer Programmer", "2$","Pending","Submit"],
+        ["Name", "Business Consultant", "2$","Pending","Submit"],
+        ["Name", "Software Developer", "2$","Pending","Submit"],
+        ["Name", "Business Manager", "2$","Pending","Submit"]
         ];
   return (
     <div className='pr-container'>

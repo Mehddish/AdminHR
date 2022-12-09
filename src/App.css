@@ -1,9 +1,11 @@
 .App{
   background-color: azure;
+  width: 100%;
 }
 .container{
   display: flex;
   min-height: 100vh;
+  width: 100%;
 }
 
 
@@ -201,7 +203,7 @@
 }
 
 .d-chart :last-child{
-  width: 130%;
+  width: 100%;
   margin-left: -60px;
 }
 /* PROJECT///////////////////////////////////*/
